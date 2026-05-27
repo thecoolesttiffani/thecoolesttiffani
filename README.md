@@ -23,7 +23,7 @@ Current GitHub age: approximately 15 minutes
 
 Current enthusiasm level at the idea of working for PostHog: irrationally high
 
-## Achievements
+## Current Metrics
 
 🏆 Created GitHub account specifically for a job application
 
