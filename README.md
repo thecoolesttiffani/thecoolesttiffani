@@ -11,13 +11,16 @@ Current stats:
 🍍 Pineapple pizza stance: strongly supportive
 
 🐇 Current rabbit holes:
-- Learning GitHub without accidentally deleting the internet
+- The science of happiness
+- Sound healing
+- Which super power is superior
 
-Things I enjoy building:
+Things I enjoy building/creating:
 - Better employee onboarding experiences
 - Systems that help humans feel like humans
 - Supportive teams
 - Anything to do with coaching (I really love it!)
+- Pretty things in Canva
 
 Current GitHub age: approximately 15 minutes
 
