@@ -1,4 +1,4 @@
-# Hi, I'm Tiffani 👋
+# Hey, I'm Tiffani 👋🏾
 
 Founder of Tiffani Walker Coaching
 
@@ -32,4 +32,4 @@ Current enthusiasm level at the idea of working for PostHog: irrationally high
 
 🏆 Drank all my water today
 
-🏆 Pretending not to be intimidated
+🏆 Pretending not to be intimidated 🙈
