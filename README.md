@@ -32,4 +32,4 @@ Current enthusiasm level at the idea of working for PostHog: irrationally high
 
 🏆 Drank all my water today
 
-🏆 Professional people person pretending not to be intimidated
+🏆 Pretending not to be intimidated
