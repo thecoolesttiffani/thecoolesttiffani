@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Tiffani 👋
 
-<!--
-**thecoolesttiffani/thecoolesttiffani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of Tiffani Walker Coaching
 
-Here are some ideas to get you started:
+Professional people person  
+Builder of experiences  
+New GitHub citizen (please excuse the fresh paint)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current stats:
+
+🍍 Pineapple pizza stance: strongly supportive
+
+🐇 Current rabbit holes:
+- Learning GitHub without accidentally deleting the internet
+
+Things I enjoy building:
+- Better employee onboarding experiences
+- Systems that help humans feel like humans
+- Supportive teams
+- Anything to do with coaching (I really love it!)
+
+Current GitHub age: approximately 15 minutes
+
+Current enthusiasm level at the idea of working for PostHog: irrationally high
