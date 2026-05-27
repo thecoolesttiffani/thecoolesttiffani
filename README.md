@@ -22,3 +22,11 @@ Things I enjoy building:
 Current GitHub age: approximately 15 minutes
 
 Current enthusiasm level at the idea of working for PostHog: irrationally high
+
+## Achievements
+
+🏆 Created GitHub account specifically for a job application
+
+🏆 Drank all my water today
+
+🏆 Professional people person pretending not to be intimidated
