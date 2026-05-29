@@ -6,10 +6,6 @@ Professional people person
 Builder of experiences  
 New GitHub citizen (please excuse the fresh paint)
 
-Current stats:
-
-🍍 Pineapple pizza stance: strongly supportive
-
 🐇 Current rabbit holes:
 - The science of happiness
 - Sound healing
@@ -22,14 +18,6 @@ Things I enjoy building/creating:
 - Anything to do with coaching (I really love it!)
 - Pretty things in Canva
 
-Current GitHub age: approximately 15 minutes
+Current GitHub age: approximately 5 days
 
-Current enthusiasm level at the idea of working for PostHog: irrationally high
-
-## Current Metrics
-
-🏆 Created GitHub account specifically for a job application
-
-🏆 Drank all my water today
-
-🏆 Pretending not to be intimidated 🙈
+Current enthusiasm level at the idea of working for Supabase: irrationally high
